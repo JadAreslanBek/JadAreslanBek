@@ -1,0 +1,38 @@
+
+h1{
+font-style:italic;
+color:red;
+}
+body{
+  background-color: lightyellow;
+ }
+ /* table */
+  
+table{
+height: 40%;
+left: 20%;
+margin: 20px auto;
+overflow-y: scroll;
+postition: static;
+width: 60%
+}
+thead,th{
+background-color: lightblue;
+color: #FFF;
+font-family: 'times new roman';
+font-size: 19px;
+font-weight: 2000;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+td{
+font-family: 'courier new';
+font-size: 18px;
+font-weight: 600;
+padding: 20px;
+width: 33.3333%;
+color:purple;
+}
+h3{
+color:green;
+}
